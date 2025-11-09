@@ -1,52 +1,62 @@
 # 👋 Hi, I’m Vishal Chouhan  
 
-### 💡 About Me  
-I’m a passionate **AI & Machine Learning enthusiast** who loves building intelligent systems that make real-world impact — especially in the fields of **healthcare, fitness, and nutrition**.  
-
-Currently, I’m focused on developing **NUTRI-ANALYTICA**, a personalized **Diet Recommendation System** that uses **machine learning and data analytics** to promote healthy living through smart nutrition.  
+🎓 **B.Tech in Computer Science and Engineering** from PIEMR, Indore (Graduated: July 2024)  
+💻 **Python Developer & Trainer** passionate about building real-world projects, automation tools, and scalable web applications.  
+📍 Based in Indore, Madhya Pradesh, India  
 
 ---
 
 ### 👀 I’m interested in  
-- Machine Learning & Deep Learning  
-- Data Science and Analytics  
-- Artificial Intelligence in Healthcare  
-- Web App Development with FastAPI / Streamlit  
-- Cloud & Containerization (Docker, AWS)  
+- Full-stack web development  
+- Backend engineering (Flask, Django)  
+- Automation and data-driven applications  
+- Teaching and mentoring aspiring developers  
 
 ---
 
 ### 🌱 I’m currently learning  
-- Advanced Machine Learning algorithms  
-- Model Deployment using Docker and CI/CD  
-- Full-stack development with FastAPI and React  
+- Advanced Flask and Django frameworks  
+- RESTful API design and integration  
+- Cloud deployment using AWS and Render  
+- React.js for building dynamic UIs  
 
 ---
 
 ### 💞️ I’m looking to collaborate on  
-- AI-driven healthcare projects  
-- Open-source ML & data science initiatives  
-- Web apps that make data easy to understand and useful  
+- Open-source Python or Flask-based projects  
+- Educational and learning platforms  
+- Web automation tools and productivity apps  
 
 ---
 
 ### 📫 How to reach me  
-- 📧 **Email:** [vishalchouhan0401@gmail.com](mailto:vishalchouhan0401@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/vishal-chouhan04](https://linkedin.com/in/vishal-chouhan04)  
-- 🧠 **Kaggle:** [kaggle.com/vishalchouhan04](https://www.kaggle.com/vishalchouhan04)  
-- 🐙 **GitHub:** [github.com/Vishalchouhan04](https://github.com/Vishalchouhan04)  
+- 📧 **Email:** [vishalchouhan0406@gmail.com](mailto:vishalchouhan0406@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/vishalchouhan04](https://www.linkedin.com/in/vishalchouhan04/)  
+- 💻 **Portfolio / Projects:** [View Resume Projects](https://drive.google.com/file/d/12YQHItfwwEYlJuVNSPrR15wjlFTOH85B/view)  
 
 ---
 
-### 🧠 Current Project  
-🚀 **[NUTRI-ANALYTICA](https://github.com/Vishalchouhan04/NUTRI-ANALYTICA)** — A **content-based diet recommendation web application** built using  
-**Scikit-Learn**, **FastAPI**, and **Streamlit** to promote personalized nutrition and healthy lifestyles.
+### 🛠️ Tech Stack  
+**Languages:** Python, C++, JavaScript, SQL  
+**Frameworks & Tools:** Flask, Django, HTML, CSS, Tailwind CSS, REST APIs, Git, Linux  
+**Soft Skills:** Communication, Leadership, Public Speaking, Team Collaboration  
 
 ---
 
-> “Eat smart, live better — one recommendation at a time.” 🍎  
+### 🚀 Featured Projects  
 
-<!---
-Vishalchouhan04/Vishalchouhan04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🧰 MOTORCARE — Two-Wheeler Service & Booking System  
+A full-stack Flask app for managing service bookings with real-time Google Sheets API integration and an admin dashboard.  
+**Tech:** Python, Flask, SQLAlchemy, Tailwind CSS  
+
+#### 🥗 NUTRI-ANALYTICA — Personalized Diet Recommendation System  
+Flask-based app that provides customized diet plans using BMI and user health data.  
+**Tech:** Python, Flask, React.js, SQLite  
+
+#### 🧩 CORE SCHOLARS — Learning & Assessment Platform  
+Interactive quiz platform enabling performance-based learning and progress tracking.  
+**Tech:** Python, Flask, React.js, Node.js, MongoDB  
+
+---
+
+⭐ *“Code, teach, and grow — one project at a time.”*  
